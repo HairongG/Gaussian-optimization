@@ -1,3 +1,9 @@
 # Gaussian-optimization
 
-aaa
+Daily updates on leaning GO
+
+Feb 22  
+
+
+
+
